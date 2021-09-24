@@ -8,7 +8,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Rubens da Cunha Castro
 * Caio Vitor Souza Fernandes
 * Arthur Santiago Loschi Ruiz
-* Nome completo do aluno 4
+* Daniel Gomes Benevides
 
 ## Professores responsáveis
 
