@@ -11,37 +11,37 @@ Tópicos:
 
 FLUXO DE USUÁRIO:
 
-![Fluxo de Usuário](Interface-imgs\Fluxo-de-Usuário.jpg)
+![Fluxo de Usuário](/Artefatos/Arquivos-Sprint1/Interface-imgs/Fluxo-de-Usuário.jpg)
 
 
 
 WIREFRAMES DAS TELAS:
 
-![Tela Login](Interface-imgs\Tela-Login.jpg)
+![Tela Login](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-Login.jpg)
 
-![Crie sua Conta](Interface-imgs\Tela-CrieSuaConta.jpg)
+![Crie sua Conta](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-CrieSuaConta.jpg)
 
-![Recuperação de Senha](Interface-imgs\Tela-RecuperaSenha.jpg)
+![Recuperação de Senha](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-RecuperaSenha.jpg)
 
-![Nova Tarefa](Interface-imgs\Tela-NovaTarefa.jpg)
+![Nova Tarefa](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-NovaTarefa.jpg)
 
-![Sem Novas Tarefas](Interface-imgs\Tela-SemNovasTarefas.jpg)
+![Sem Novas Tarefas](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-SemNovasTarefas.jpg)
 
-![Resumo Tarefas](Interface-imgs\Tela-ResumoTarefas.jpg)
+![Resumo Tarefas](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-ResumoTarefas.jpg)
 
-![Edição Tarefa](Interface-imgs\Tela-EdiçãoTarefa.jpg)
+![Edição Tarefa](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-EdiçãoTarefa.jpg)
 
-![Calendário](Interface-imgs\Tela-Calendário.jpg)
+![Calendário](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-Calendário.jpg)
 
-![Configurações](Interface-imgs\Tela-Configurações.jpg)
+![Configurações](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-Configurações.jpg)
 
-![DarkMode](Interface-imgs\Tela-DarkMode.jpg)
+![DarkMode](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-DarkMode.jpg)
 
-![Estatísticas](Interface-imgs\Tela-Estatísticas.jpg)
+![Estatísticas](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-Estatísticas.jpg)
 
-![Conquistas](Interface-imgs\Tela-Conquistas.jpg)
+![Conquistas](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-Conquistas.jpg)
 
-![Conta](Interface-imgs\Tela-Conta.jpg)
+![Conta](/Artefatos/Arquivos-Sprint1/Interface-imgs/Tela-Conta.jpg)
 
 
 
