@@ -50,4 +50,4 @@ Para desenvolvimento compartilhado da ferramenta, o grupo fará uso da estrutura
 
 QUADRO KANBAN
 
-![Quadro Kanban](Artefatos-imgs\Quadro-Kanban.jpg)
+![Quadro Kanban](/Artefatos/Arquivos-Sprint1/Artefatos-imgs/Quadro-Kanban.jpg)
