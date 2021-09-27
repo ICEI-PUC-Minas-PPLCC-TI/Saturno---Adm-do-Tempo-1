@@ -10,7 +10,7 @@ Tópicos:
 
 MATRIZ CSD:
 
-![Matriz CSD](Artefatos-imgs\Matriz-CSD.jpg)
+![Matriz CSD](\Artefatos-imgs\Matriz-CSD.jpg)
 
 
 
