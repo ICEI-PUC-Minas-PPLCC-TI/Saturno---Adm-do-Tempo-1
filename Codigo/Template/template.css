@@ -1,0 +1,40 @@
+body
+{
+    background-color: rgb(37, 37, 37);
+    background-size: 100%;
+}
+
+
+div nav ul a.alista
+{
+    text-decoration: none;
+    color:whitesmoke;
+    display: inline;
+    padding: 3%;
+}
+
+div nav ul a.alista:hover
+{
+    color: yellow;
+}
+
+div nav ul li
+{
+    display: inline;
+    list-style: none;
+}
+
+div nav ul
+{
+    display: inline;
+}
+
+.menu
+{
+   margin-top: 6%;
+}
+
+div.logo img
+{
+    margin: 5% auto;
+}
