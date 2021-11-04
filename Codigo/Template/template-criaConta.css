@@ -4,6 +4,11 @@ body
     background-size: 100%;
 }
 
+.logo{
+    width:100%;
+    padding-right:30%;
+}
+
 .criaConta{
     background-color: antiquewhite;
     margin-top:5%;
