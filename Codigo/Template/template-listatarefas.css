@@ -46,10 +46,17 @@ div.logo img
     text-align:center;
 }
 
+.tarefa-box{
+  background-color: white;
+  border-radius: 5px;
+  border:solid 2px black;
+  margin-top:5%;
+}
+
 
 .footer{
     background-color: antiquewhite;
-    margin-top: 22.5%;
+    margin-top:10%;
 }
 
 .copyright{
@@ -140,6 +147,19 @@ i{
 .logo-saturno{
     display: block;
     margin: 0 auto;
+}
+
+.resumo-title{
+  text-align:center;
+  padding-top:5%;
+  padding-bottom:5%;
+}
+
+.tarefa-box{
+  background-color: white;
+  border-radius: 5px;
+  border:solid 2px black;
+  margin-top:5%;
 }
 
 
