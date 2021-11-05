@@ -174,4 +174,71 @@ div.logo img
     display: block;
     color:black;
   }
+
+  .logo-saturno{
+    margin:0 auto;
+    display:block;
+  }
+
+  .newtarefa{
+    background-color: beige;
+    border-radius: 10px;
+    border: solid 2px lightcyan;
+    margin-top:10%;
+    margin-bottom:15%;
+}
+
+.title-tarefa{
+    text-align: center;
+    padding-top:2%;
+}
+
+.nameTarefa{
+    padding-left:5%;
+}
+
+.nameDate{
+    padding-top:5%;
+}
+
+.descricao{
+    background-color: white;
+    border-radius: 5px;
+    border:solid 2px black;
+}
+
+#descricao{
+    width:100%;
+    padding-bottom:20%;
+    
+}
+
+.btn-tarefa{
+    padding-top:5%;
+    padding-bottom:3%;
+}
+
+.text-btn{
+    display:block;
+    margin:0 auto;
+    padding-left:2%;
+    padding-right:2%;
+}
+
+.footer{
+    background-color: antiquewhite;
+    margin-top:5%;
+}
+
+.copyright{
+    margin:0 auto;
+    padding-top:4%;
+    padding-left:5%;
+}
+
+.logo-puc{
+    padding-top:3%;
+    padding-bottom:3%;
+    margin-left:40%;
+}
 }

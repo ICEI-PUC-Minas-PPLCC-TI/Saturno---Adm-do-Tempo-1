@@ -168,4 +168,59 @@ div.logo img
     display: block;
     color:black;
   }
+
+  .stats-title{
+
+    text-align: center;
+    padding-top:5%;
+
+}
+
+.img-pizza{
+    display:block;
+    margin: 0 auto;
+    padding-top:5%;
+    max-width:60%;
+}
+
+.text-grafico{
+    text-align: center;
+    padding-top:3%;
+}
+
+.azul-text{
+    color:blue;
+}
+
+.laranja-text{
+    color:orangered
+}
+
+.btn-conquistas{
+    padding-left: 10%;
+    margin-top:5%;
+}
+
+.button{
+    border-radius: 5px;
+    padding-left: 2%;
+    padding-right:2%;
+}
+
+.footer{
+    background-color: antiquewhite;
+    margin-top:5%;
+}
+
+.copyright{
+    margin:0 auto;
+    padding-top:4%;
+    padding-left:5%;
+}
+
+.logo-puc{
+    padding-top:3%;
+    padding-bottom:3%;
+    margin-left:40%;
+}
 }
