@@ -55,8 +55,15 @@ div.logo img
     padding-bottom:3%;
 }
 
+.info-box{
+  background-color: white;
+  border-radius: 10px;
+  border:solid 5px black;
+}
+
 .info{
-    padding-top:3%;
+    padding-top:1%;
+    padding-bottom:1%;
 }
 
 .btn-perfil{
@@ -158,4 +165,66 @@ div.logo img
     display: block;
     color:black;
   }
+
+  .logo-saturno{
+    margin:0 auto;
+    display:block;
+  }
+
+  .perfil-title{
+
+    text-align: center;
+    padding-top:5%;
+    padding-bottom:5%;
+
+}
+
+.img-perfil{
+    margin: 0 auto;
+    display: block;
+    padding-bottom:3%;
+    width:50%;
+}
+
+.info-box{
+  background-color: white;
+  border-radius: 10px;
+  border:solid 5px black;
+  margin:0 auto;
+  display:block;
+  
+}
+
+.info{
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
+.btn-perfil{
+    padding-top:10%;
+    padding-bottom:10%;
+}
+
+.btn-perfil button{
+    padding-left:3%;
+    padding-right:3%;
+    
+}
+
+.footer{
+    background-color: antiquewhite;
+    margin-top:5%;
+}
+
+.copyright{
+    margin:0 auto;
+    padding-top:4%;
+    padding-left:5%;
+}
+
+.logo-puc{
+    padding-top:3%;
+    padding-bottom:3%;
+    margin-left:40%;
+}
 } 

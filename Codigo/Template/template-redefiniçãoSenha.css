@@ -72,14 +72,13 @@ body
     margin:0 auto;
     display:block;
     width:60%;
+    padding-bottom:20%;
 }
 
 .caixa-login{
     background-color:antiquewhite;
-    margin-top:10%;
-    margin-bottom:10%;
-    margin-right:10%;
-    margin-left:10%;
+    margin:0 auto;
+    display:block;
     padding-top:5%;
     padding-bottom:5%;
     border-radius: 10px;
