@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
-    <link rel="stylesheet" href="template.css">
+    <link rel="stylesheet" href="template-SemTarefa.css">
     <title>Template Saturno</title>
 </head>
 
@@ -14,19 +14,25 @@
         <div class="row cabecalho">
             <div class="col-lg-3 col-sm-12 logo">
                 
-                <img class="logo-saturno" src="\Codigo\Template\imagens\logo-saturno.png" width="40%">
+                <a href="template-telaInicial.html"><img class="logo-saturno" src="imagens\logo-saturno.png" width="40%"></a>
 
             </div>
 
             <div class="col-lg-9">
                 <nav class="menu">
+
+                    <input class="menu-mobile" type="checkbox" id="menu-mobile">
+                  <label class="menu-mobile" for="menu-mobile">
+                      <i class="fa fa-bars fa-3x"></i>
+                      <i class="fa fa-times-circle fa-3x"></i>
+                  </label>
                         
                     <ul class="menu-lista">
-                        <li><a class="alista" href="#">Resumo das Tarefas</a></li>
-                        <li><a class="alista" href="#">Calendário</a></li>
-                        <li><a class="alista" href="#">Configurações</a></li>
-                        <li><a class="alista" href="#">Estatísticas</a></li>
-                        <li><a class="alista" href="#">Conta</a></li>
+                        <li><a class="alista" href="template-SemTarefas.html">Resumo das Tarefas</a></li>
+                        <li><a class="alista" href="template-calendário.html">Calendário</a></li>
+                        <li><a class="alista" href="template-configuracao.html">Configurações</a></li>
+                        <li><a class="alista" href="template-estatistica.html">Estatísticas</a></li>
+                        <li><a class="alista" href="template-perfil.html">Conta</a></li>
                     </ul>
     
                 </nav>
@@ -45,7 +51,7 @@
 
                 <div class="col-lg-6 col-sm-12">
                     <p class="text-n-tarefas">Sem novas tarefas... Curta seu tempo livre!</p>
-                        <img class="img-joinha" src="\Codigo\Template\imagens\joinha.png" width="10%">
+                        <img class="img-joinha" src="imagens\joinha.png" width="10%">
                 </div>
  
 
@@ -53,7 +59,7 @@
                     <p class="text-novatarefa">Não é seu tempo livre? Começe por aqui:</p>
                 
                     <div class="botão-novatarefa">
-                        <button class="botão-tarefa"><b>Nova Tarefa</b></button>
+                        <a href="template-novaTarefa.html"><button class="botão-tarefa"><b>Nova Tarefa</b></button></a>
                     </div>
                 </div>
 
@@ -69,13 +75,14 @@
             </div>
 
             <div class="col-lg-4 col-sm-12">
-                <img class="logo-puc" src="\Codigo\Template\imagens\puc-logo-certo.png" width="20%">
+                <img class="logo-puc" src="imagens\puc-logo-certo.png" width="20%">
             </div>
 
         </div>
 
     </footer>
 
+    <script src="https://kit.fontawesome.com/a017ab5831.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.min.js" integrity="sha384-PsUw7Xwds7x08Ew3exXhqzbhuEYmA2xnwc8BuD6SEr+UmEHlX8/MCltYEodzWA4u" crossorigin="anonymous"></script>
 </body>

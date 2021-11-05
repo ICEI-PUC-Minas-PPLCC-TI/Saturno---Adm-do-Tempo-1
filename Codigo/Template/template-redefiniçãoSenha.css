@@ -57,3 +57,63 @@ body
     color:white;
     width:25%;
 }
+
+@media screen and (max-width:992px){
+
+.title-site{
+    display: none;
+}
+
+.subtitle{
+    display:none;
+}
+
+.logo-site{
+    margin:0 auto;
+    display:block;
+    width:60%;
+    padding-bottom:20%;
+}
+
+.caixa-login{
+    background-color:antiquewhite;
+    margin:0 auto;
+    display:block;
+    padding-top:5%;
+    padding-bottom:5%;
+    border-radius: 10px;
+    
+   
+}
+
+.forms-login{
+    padding-left:5%;
+    padding-right:5%;
+}
+
+.form-control{
+    width:95%;
+}
+
+.esqueceu-senha a{
+    text-align: center;
+}
+
+.botões-login button{
+    display: block;
+    margin: 0 auto;
+}
+
+.botão2{
+    margin-top:5%;
+    
+}
+
+.criar-conta{
+    border-color:rgb(173, 172, 172);
+    background-color: rgb(34, 33, 33);
+    color:white;
+    width:25%;
+}
+
+}
