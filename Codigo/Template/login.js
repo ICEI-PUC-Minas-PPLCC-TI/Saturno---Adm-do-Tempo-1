@@ -121,3 +121,5 @@ function setUserPass () {
 
 // Inicializa as estruturas utilizadas pelo LoginApp
 initLoginApp ();
+
+document.getElementsByClassName('alista')[4].innerHTML = usuarioCorrente.nome;
