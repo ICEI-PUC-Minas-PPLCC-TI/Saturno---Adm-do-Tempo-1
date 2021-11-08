@@ -1,0 +1,142 @@
+body
+{
+    background-color:rgb(110, 182, 206);
+    background-size: 100%;
+}
+
+.logo{
+    width:100%;
+    padding-right:30%;
+}
+
+.criaConta{
+    background-color: antiquewhite;
+    margin-top:5%;
+}
+
+.criacontatitle{
+    padding-top:3%;
+    padding-left:3%;
+}
+
+#email{
+    padding-right: 60%;
+}
+
+#date{
+    padding-right:10%;
+}
+.forms{
+    padding-top:5%;
+    padding-left:3%;
+}
+
+.forms p{
+    color:rgb(58, 57, 57);
+    font-size: large;
+}
+
+.forms label
+{
+    padding-bottom:2%;
+}
+
+.forms input{
+    padding-right: 80%;
+}
+
+.buttom{
+    padding-top:5%;
+    padding-left: 3%;
+}
+
+.footer{
+    background-color: rgb(255, 255, 255)
+}
+
+.copyright{
+    margin:0 auto;
+    padding-top:4%;
+    padding-left:5%;
+}
+
+.logo-puc{
+    padding-top:3%;
+    padding-bottom:3%;
+    margin-left:40%;
+}
+
+@media screen and (max-width:992px){
+
+    body
+{
+    background-color:rgb(110, 182, 206);
+    background-size: 100%;
+}
+
+.logo{
+    display:none;
+}
+
+.criaConta{
+    background-color: antiquewhite;
+    margin-top:5%;
+}
+
+.criacontatitle{
+    padding-top:3%;
+    padding-left:3%;
+}
+
+#email{
+    padding-right: 0%;
+}
+
+#date{
+    padding-right:10%;
+}
+.forms{
+    padding-top:5%;
+    padding-left:3%;
+}
+
+.forms p{
+    color:rgb(58, 57, 57);
+    font-size: large;
+}
+
+.forms label
+{
+    padding-bottom:2%;
+}
+
+.forms input{
+    padding-right: 0%;
+}
+
+.buttom{
+    padding-top:5%;
+    padding-left: 3%;
+}
+    
+    
+    .footer{
+        margin-top:10%;
+        background-color:rgb(255, 255, 255);
+    }
+    
+    .copyright{
+        text-align: center;
+        margin:0 auto;
+        padding-top:4%;
+        padding-left:5%;
+    }
+
+    .logo-puc{
+        padding-top:3%;
+        padding-bottom:3%;
+        margin-left:40%;
+    }
+    
+    
+}
