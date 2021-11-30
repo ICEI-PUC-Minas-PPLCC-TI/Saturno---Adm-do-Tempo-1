@@ -1,0 +1,320 @@
+html {
+  --background: rgb(110, 182, 206);
+  --text: black;
+}
+
+body
+{
+  background-color: var(--background);
+  background-size: 100%;
+}
+
+.laranja {
+    color: var(--text);
+}
+
+.img-laranja {
+    background-color:rgb(110, 182, 206);
+}
+
+div nav ul a.alista
+{
+    text-decoration: none;
+    color:whitesmoke;
+    display: inline;
+    padding: 3%;
+}
+
+div nav ul a.alista:hover
+{
+    color: yellow;
+}
+
+div nav ul li
+{
+    display: inline;
+    list-style: none;
+}
+
+div nav ul
+{
+    display: inline;
+}
+
+.menu
+{
+   margin-top: 6%;
+}
+
+.menu-mobile{
+    display:none;
+}
+
+div.logo img
+{
+    margin: 5% auto;
+}
+
+.agenda{
+    width:45%;
+    padding-top:0;
+    margin:0 auto;
+    display:block;
+}
+
+.intro{
+    padding-bottom:5%;
+    padding-top:5%;
+    background-color: white;
+    border-radius: 90%;
+}
+
+.text-agenda{
+    padding-top:5%;
+}
+
+.botãoConta{
+    display: block;
+    margin: 0 auto;
+    padding-right:15%;
+    padding-top:2%;
+}
+
+.botãoConta button{
+    width:80%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
+.funcionalidades{
+    padding-top:5%;
+}
+
+.title-funci{
+    padding-bottom:3%;
+}
+
+.funcional img{
+    width:30%;
+    display:block;
+    margin:0 auto;
+}
+
+.funcional p{
+    text-align: center;
+}
+
+.sobre{
+    padding-top:5%;
+}
+
+.perfil{
+    padding-top:3%;
+    padding-bottom:15%;
+}
+
+.perfil img{
+    margin: 0 auto;
+    display: block;
+    width:50%;
+    padding-top:5%;
+}
+
+.perfil h4{
+    text-align: center;
+    padding-top:10%;
+}
+
+
+.footer{
+    background-color: antiquewhite;
+}
+
+.copyright{
+    margin:0 auto;
+    padding-top:4%;
+    padding-left:5%;
+}
+
+.logo-puc{
+    padding-top:3%;
+    padding-bottom:3%;
+    margin-left:40%;
+}
+
+@media screen and (max-width:992px){
+
+    div nav ul a.alista
+{
+    text-decoration: none;
+    color:black;
+    display: block;
+    padding: 3%;
+}
+
+div nav ul a.alista:hover
+{
+    color: yellow;
+}
+
+div nav ul li
+{
+    display: block;
+}
+
+div nav ul
+{
+    display: block;
+}
+
+.menu-lista{
+    display:none;
+    position: relative;
+    
+}
+
+.menu-mobile{
+    display:inline;
+}
+
+input.menu-mobile{
+    display:none;
+}
+
+i{
+    display:block;
+    margin: 0 auto;
+    padding-bottom:2%;
+}
+
+#menu-mobile:checked ~ label i:nth-child(2) {
+    display: block;
+  }
+#menu-mobile:checked ~ label i:first-child {
+    display: none;
+  }
+#menu-mobile:not(:checked) ~ label i:first-child {
+    display: block;
+  }
+#menu-mobile:not(:checked) ~ label i:nth-child(2) {
+    display: none;
+  }
+
+#menu-mobile:checked ~ .menu-lista{
+
+    display: block;
+    width:100%;
+    background-color:rgb(139, 184, 236);
+    color:black;
+    
+
+}
+#menu-mobile:checked ~ .alista{
+
+    display: block;
+    color:black;
+}
+
+
+.logo-saturno{
+    display: block;
+    margin: 0 auto;
+}
+
+.agenda{
+    width:40%;
+    padding-top:0;
+    margin:0 auto;
+    display:block;
+}
+
+.intro{
+    padding-bottom:5%;
+    padding-top:5%;
+    background-color: white;
+    border-radius: 90%;
+}
+
+.text-agenda{
+    padding-top:5%;
+    text-align: center;
+}
+
+.botãoConta{
+    display: block;
+    margin: 0 auto;
+    padding-right:0;
+    padding-top:2%;
+}
+
+.botãoConta button{
+    width:80%;
+    border-radius: 10px;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
+.funcionalidades{
+    padding-top:5%;
+}
+
+.title-funci{
+    padding-bottom:3%;
+    text-align: center;
+}
+
+.funcional img{
+    width:30%;
+    display:block;
+    margin:0 auto;
+}
+
+.funcional p{
+    text-align: center;
+}
+
+.sobre{
+    padding-top:5%;
+}
+
+.sobre-title{
+    text-align: center;
+    margin-top:15%;
+}
+
+.text-sobre{
+    text-align: justify;
+}
+
+.perfil{
+    padding-top:3%;
+    padding-bottom:15%;
+}
+
+.perfil img{
+    margin: 0 auto;
+    display: block;
+    width:40%;
+    padding-top:5%;
+}
+
+.perfil h4{
+    text-align: center;
+    padding-top:10%;
+}
+
+
+.footer{
+    margin-top:10%;
+
+}
+
+.copyright{
+    text-align: center;
+}
+
+
+}
