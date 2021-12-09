@@ -6,4 +6,4 @@ Objetivo: O nosso projeto possui o objetivo de auxiliar seus usuários na organi
 
 Justificativa: O projeto foi criado para solucionar o problema que muitas pessoas têm no dia a dia, administrar o seu tempo. Organizar os compromissos e obrigações exige tempo e dedicação, por isso, muitas pessoas têm dificuldade em cumprir metas e não procrastinar. Pensando nisso, nosso projeto teria a finalidade de aumentar a produtividade dos usuários,  melhorar a qualidade do trabalho feito, auxiliar no gerenciamento de tarefas e acabar com o estresse causado pelos prazos perdidos.
 
-Público Alvo: Nosso site será desenvolvido para toda e qualquer pessoa que necessite de apoio para organizar melhor seu tempo/horários ou que precisa de uma motivação para isso.
+Público Alvo: Nosso site terá com o público-alvo estudantes, professores e trabalhores de modo geral que necessitam de apoio para organizar melhor seu tempo/horários ou que precisam de uma motivação para isso ou ainda que gostariam de novas maneiras para se organizar.
