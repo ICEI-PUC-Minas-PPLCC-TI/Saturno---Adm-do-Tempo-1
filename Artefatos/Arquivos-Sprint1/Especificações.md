@@ -13,19 +13,19 @@ Tópicos Abordados:
 -Histórias de usuários:
 
 Eu como... Amanda
-...quero/desejo... Otimizar o tempo e facilitar a organização cotidiana
+...quero/desejo... Otimizar o tempo e facilitar a organização cotidiana sem que me cause estresse no processo
 ...para... Não perder o prazo das tarefas
 
 Eu como... Julia
-...quero/desejo... Me motivar a fazer as tarefas
-...para... Não procrastinar muito
+...quero/desejo... Me motivar a fazer as tarefas a mim atribuídas sem perder tempo desnecessariamente
+...para... Não procrastinar muito e ficar em dia com meus deveres
 
 Eu como... Bênio
-...quero/desejo... Conseguir me organizar com as tarefas
-...para... Saber quando são os prazos e o que preciso fazer para cumprí-los
+...quero/desejo... Conseguir me organizar com as tarefas de maneira fácil e intuitiva
+...para... ficar por dentro dos prazos e saber o que fazer para cumprí-los
 
 Eu como... Daniel
-...quero/desejo... Organizar todas as tarefas que tenho em um dia
+...quero/desejo... Organizar todas as tarefas que tenho em um dia estando estimulado no proceso e sem me entediar
 ...para... Saber tudo que preciso fazer e quando terei tempo livre para lazer
 
 
