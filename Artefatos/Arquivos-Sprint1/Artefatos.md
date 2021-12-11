@@ -22,13 +22,13 @@ MAPA DE STAKEHOLDERS:
 
 PERSONAS:
 
-![Persona 1 (Amanda)](/Artefatos/Arquivos-Sprint1/Artefatos-imgs/Persona-Amanda.jpg)
+![Persona 1 (Amanda)](/Artefatos/Arquivos-Sprint1/Artefatos-imgs/Amanda2.jpg)
 
-![Persona 2 (Bênio)](/Artefatos/Arquivos-Sprint1/Artefatos-imgs/Persona-Bênio.jpg)
+![Persona 2 (Bênio)](/Artefatos/Arquivos-Sprint1/Artefatos-imgs/Benio2.jpg)
 
-![Persona 3 (Daniel)](/Artefatos/Arquivos-Sprint1/Artefatos-imgs/Persona-Daniel.jpg)
+![Persona 3 (Daniel)](/Artefatos/Arquivos-Sprint1/Artefatos-imgs/Daniel2.jpg)
 
-![Persona 4 (Julia)](/Artefatos/Arquivos-Sprint1/Artefatos-imgs/Persona-Julia.jpg)
+![Persona 4 (Julia)](/Artefatos/Arquivos-Sprint1/Artefatos-imgs/Julia2.jpg)
 
 
 
