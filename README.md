@@ -12,8 +12,9 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Carlos Augusto Paiva Da Silva Martins (Tutor da equipe)
+* Rommel Vieira Carneiro
+* Rosilane Ribeiro da Mota
 
 ## Instruções de utilização
 
