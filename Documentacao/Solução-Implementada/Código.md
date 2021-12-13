@@ -1,0 +1,1 @@
+Entrar na pasta "Código" no repositório inicial para checar todo o código do site.
