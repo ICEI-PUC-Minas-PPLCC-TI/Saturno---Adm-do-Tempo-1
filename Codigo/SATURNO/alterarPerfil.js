@@ -22,7 +22,8 @@ function atualizar(usuario){
     generoId.innerHTML = "<b>Genero:</b> <em>" + usuario.genero + "</em>";
 
     if(usuario.img != null){
-        atualizarImg(usuario.img)
+        imgData = usuario.img;
+        atualizarImg(imgData)
     }
 }
 
