@@ -41,7 +41,6 @@ botaoId.onclick = () => {
         //Salva os dados novos do usuário no banco de dados e atualiza a página e desabilita a edição
         sessionStorage.setItem('usuarioCorrente', JSON.stringify(usuarioAtual));
         botaoId.innerHTML = "Editar Perfil";
-        atualizar(usuarioAtual);
         edicao = false;
         let db_usuarios = JSON.parse(localStorage.getItem('db_usuarios'));
         var usuario2 = { usuarios: [] };
@@ -72,6 +71,8 @@ botaoId.onclick = () => {
         }else{
             atualizarImg(src);
         }
+        
+        atualizar(usuarioAtual);
         
 
     }else{
