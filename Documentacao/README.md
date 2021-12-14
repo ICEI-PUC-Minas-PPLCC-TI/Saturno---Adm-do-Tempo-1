@@ -53,25 +53,25 @@ ________________________________________________________________________________
   5) Teste da Página de Configurações;
   6) Teste da Página de Estatísticas;
   7) Teste da Página de Conquistas;
-  8) Teste da Página de Perfil/Edição de perfil;
+  8) Teste da Página de Perfil/Edição de perfil
 
 ### - Testes de usabilidade
-  1)
-  2)
-  3)
+  1) Pessoas que testaram;
+  2) Informações sobre a pessoa;
+  3) Sugestões dadas
 
 ### - Funcionalidades-Arthur
   1) Arquivo instrução Sprint 2;
-  2) Arquivo instrução Sprint 3;
+  2) Arquivo instrução Sprint 3
   
 ### - Funcionalidades-Caio
   1) Arquivo instrução Sprint 2;
-  2) Arquivo instrução Sprint 3;
+  2) Arquivo instrução Sprint 3
   
 ### - Funcionalidades-Daniel
   1) Arquivo instrução Sprint 2;
-  2) Arquivo instrução Sprint 3;
+  2) Arquivo instrução Sprint 3
   
 ### - Funcionalidades-Rubens
   1) Arquivo instrução Sprint 2;
-  2) Arquivo instrução Sprint 3;
+  2) Arquivo instrução Sprint 3
