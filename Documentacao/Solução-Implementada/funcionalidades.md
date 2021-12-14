@@ -2,38 +2,38 @@ Esse arquivo possui os prints das telas do site, evidenciando as funcionalidades
 
 ## CADASTRO E LOGIN
 
-![tela-login](/Documentação/Solução-Implementada/imgs-func/Tela-login.jpg)
+![tela-login](/Documentacao/Solução-Implementada/imgs-func/Tela-login.jpg)
 
 ## TELA INICIAL
 
-![tela-inicial](/Documentação/Solução-Implementada/imgs-func/página-inicial.jpg)
+![tela-inicial](/Documentacao/Solução-Implementada/imgs-func/página-inicial.jpg)
 
-![resumo-funcionalidades](/Documentação/Solução-Implementada/imgs-func/resumo-func.jpg)
+![resumo-funcionalidades](/Documentacao/Solução-Implementada/imgs-func/resumo-func.jpg)
 
 ## TELA DE RESUMO DE TAREFAS
 
-![tela-semTarefas](/Documentação/Solução-Implementada/imgs-func/sem-tarefas.jpg)
+![tela-semTarefas](/Documentacao/Solução-Implementada/imgs-func/sem-tarefas.jpg)
 
-![tela-tarefas](/Documentação/Solução-implementada/imgs-func/tarefas.jpg)
+![tela-tarefas](/Documentacao/Solução-Implementada/imgs-func/tarefas.jpg)
 
 ## TELA CALENDÁRIO
 
-![tela-calendário](/Documentação/Solução-implementada/imgs-func/calendário.jpg)
+![tela-calendário](/Documentacao/Solução-Implementada/imgs-func/calendário.jpg)
 
 ## TELA CONFIGURAÇÕES
 
-![tela-configurações](/Documentação/Solução-implementada/imgs-func/configs.jpg)
+![tela-configurações](/Documentacao/Solução-Implementada/imgs-func/configs.jpg)
 
-![tela-dark-mode](/Documentação/Solução-implementada/imgs-func/dark-mode.jpg)
+![tela-dark-mode](/Documentacao/Solução-Implementada/imgs-func/dark-mode.jpg)
 
-![tela-verde](/Documentação/Solução-implementada/imgs-func/tela-verde.jpg)
+![tela-verde](/Documentacao/Solução-Implementada/imgs-func/tela-verde.jpg)
 
-![tela-rosa](/Documentação/Solução-implementada/imgs-func/tela-rosa.jpg)
+![tela-rosa](/Documentacao/Solução-Implementada/imgs-func/tela-rosa.jpg)
 
-![tela-vermelha](/Documentação/Solução-implementada/imgs-func/tela-vermelha.jpg)
+![tela-vermelha](/Documentacao/Solução-Implementada/imgs-func/tela-vermelha.jpg)
 
 ## TELA PERFIL
 
-![tela-perfil](/Documentação/Solução-implementada/imgs-func/perfil.jpg)
+![tela-perfil](/Documentacao/Solução-Implementada/imgs-func/perfil.jpg)
 
-![tela-edição-perfil](/Documentação/Solução-implementada/imgs-func/edição-perfil.jpg)
+![tela-edição-perfil](/Documentacao/Solução-Implementada/imgs-func/edição-perfil.jpg)
