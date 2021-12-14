@@ -2,17 +2,17 @@ Esse arquivo possui os prints das telas do site, evidenciando as funcionalidades
 
 ## CADASTRO E LOGIN
 
-![tela-login](/Documentação/Solução-implementada/imgs-func/Tela-login.jpg)
+![tela-login](/Documentação/Solução-Implementada/imgs-func/Tela-login.jpg)
 
 ## TELA INICIAL
 
-![tela-inicial](/Documentação/Solução-implementada/imgs-func/página-inicial.jpg)
+![tela-inicial](/Documentação/Solução-Implementada/imgs-func/página-inicial.jpg)
 
-![resumo-funcionalidades](/Documentação/Solução-implementada/imgs-func/resumo-func.jpg)
+![resumo-funcionalidades](/Documentação/Solução-Implementada/imgs-func/resumo-func.jpg)
 
 ## TELA DE RESUMO DE TAREFAS
 
-![tela-semTarefas](/Documentação/Solução-implementada/imgs-func/sem-tarefas.jpg)
+![tela-semTarefas](/Documentação/Solução-Implementada/imgs-func/sem-tarefas.jpg)
 
 ![tela-tarefas](/Documentação/Solução-implementada/imgs-func/tarefas.jpg)
 
