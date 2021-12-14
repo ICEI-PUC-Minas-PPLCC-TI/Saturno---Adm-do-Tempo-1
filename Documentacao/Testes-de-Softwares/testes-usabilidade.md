@@ -1,6 +1,6 @@
 # Testes de Usabilidade
 
-Aqui estarão descritos os testes realizados por pessoas do site Saturno em sua versão de entrega da Sprint 4. As referências para os testes de software podem ser encontradas [nesse link](https://github.com/ICEI-PUC-Minas-PPLCC-TI/Saturno---Adm-do-Tempo-1/blob/master/Documentacao/Testes-de-Softwares/testes-software.md)
+Aqui estarão descritos os testes realizados por pessoas do site Saturno em sua versão de entrega da Sprint 4. As referências para os testes de software podem ser encontradas [nesse link](https://github.com/ICEI-PUC-Minas-PPLCC-TI/Saturno---Adm-do-Tempo-1/blob/master/Documentacao/Testes-de-Softwares/testes-software.md).
 
 ## USUÁRIOS DE TESTE:
 
