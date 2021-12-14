@@ -3,7 +3,7 @@
 
 O nosso projeto possui o objetivo de auxiliar seus usuários na organização de suas tarefas diárias, de forma a facilitar sua organização e desenvolvimento através de uma página que lhe permite observar as tarefas a serem feitas, editar ou criar novas tarefas, além de promover nos usuários a vontade de planejar e se organizar melhor por meio dos recursos disponíveis no site, como por exemplo o sistema de conquistas, que te premia de acordo com o número de tarefas criadas e concluídas, de forma a promover uma melhora na qualidade de vida das pessoas e na sua disponibilidade.
 
-(/Codigo/SATURNO/imagens/logo-saturno.png)
+![logo-saturno](/Codigo/SATURNO/imagens/logo-saturno.png)
 
 ## Alunos integrantes da equipe
 
