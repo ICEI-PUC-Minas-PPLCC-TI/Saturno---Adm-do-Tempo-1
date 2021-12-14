@@ -1,4 +1,3 @@
 # Divulgação: Apresentação do Projeto
 
-Nesta pasta inclua arquivos de slides que foram produzidos para apresentações do projeto e de seus resultados.
-
+Nesta pasta estão presentes os slides utilizados para a apresentação da sprint 1 e 4.
