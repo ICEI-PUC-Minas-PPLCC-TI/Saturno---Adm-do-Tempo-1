@@ -15,10 +15,14 @@ As pastas da documentação possuem os seguintes conteúdos:
   3) Justificativa;
   4) Público-Alvo
 
+___________________________________________________________________________________________________________________
+
 ## Metodologia de Trabalho (processo, atribuições, ferramentas)
   1) Relação de ambientes de trabalho;
   2) Estrutura e fluxo de trabalho GitHub;
   3) Quadro Kanban
+
+___________________________________________________________________________________________________________________
 
 ## Projeto da Solução 
 ### - Especificações
@@ -32,9 +36,13 @@ As pastas da documentação possuem os seguintes conteúdos:
   2) Wireframes das telas; 
   3) Protótipo Interativo
 
+___________________________________________________________________________________________________________________
+
 ## Solução Implementada (funcionalidades de software)
   1) Funcionalidades;
   2) Direcionamento para o código completo
+
+___________________________________________________________________________________________________________________
 
 ## Testes de software
 ### - Teste de software
