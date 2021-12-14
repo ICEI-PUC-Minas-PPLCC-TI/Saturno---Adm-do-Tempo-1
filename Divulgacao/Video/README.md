@@ -1,4 +1,4 @@
 # Divulgação: Vídeo do Projeto
 
-Nesta pasta inclua arquivos de vídeo produzidos para divulgação do projeto e seus resutados.
+Vídeo produzido para divulgação e apresentação das funcionalidades do projeto do site de administração do tempo "Saturno". 
 
