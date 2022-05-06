@@ -1,0 +1,253 @@
+html {
+  --background: rgb(110, 182, 206);
+  --text: black;
+}
+
+body
+{
+  background-color: var(--background);
+  background-size: 100%;
+}
+
+.laranja {
+  color: var(--text);
+}
+
+div nav ul a.alista
+{
+    text-decoration: none;
+    color:whitesmoke;
+    display: inline;
+    padding: 3%;
+}
+
+div nav ul a.alista:hover
+{
+    color: yellow;
+}
+
+div nav ul li
+{
+    display: inline;
+    list-style: none;
+}
+
+div nav ul
+{
+    display: inline;
+}
+
+.menu
+{
+   margin-top: 6%;
+}
+
+.menu-mobile{
+    display:none;
+  }
+
+div.logo img
+{
+    margin: 5% auto;
+}
+
+.newtarefa{
+    background-color: beige;
+    border-radius: 10px;
+    border: solid 2px lightcyan;
+}
+
+.title-tarefa{
+    text-align: center;
+    padding-top:2%;
+}
+
+.nameTarefa{
+    padding-left:5%;
+}
+
+.nameDate{
+    padding-top:5%;
+}
+
+.descricao{
+    background-color: white;
+    border-radius: 5px;
+    border:solid 2px black;
+}
+
+#descricao{
+    width:100%;
+    padding-bottom:20%;
+    
+}
+
+.btn-tarefa{
+    padding-top:5%;
+    padding-bottom:3%;
+}
+
+.text-btn{
+    display:block;
+    margin:0 auto;
+    padding-left:2%;
+    padding-right:2%;
+}
+
+.footer{
+    background-color: antiquewhite;
+    margin-top:5%;
+}
+
+.copyright{
+    margin:0 auto;
+    padding-top:4%;
+    padding-left:5%;
+}
+
+.logo-puc{
+    padding-top:3%;
+    padding-bottom:3%;
+    margin-left:40%;
+}
+
+@media screen and (max-width:992px){
+
+    div nav ul a.alista
+  {
+    text-decoration: none;
+    color:black;
+    display: block;
+    padding: 3%;
+  }
+  
+  div nav ul a.alista:hover
+  {
+    color: yellow;
+  }
+  
+  div nav ul li
+  {
+    display: block;
+  }
+  
+  div nav ul
+  {
+    display: block;
+  }
+  
+  .menu-lista{
+    display:none;
+    position: relative;
+    
+  }
+  
+  .menu-mobile{
+    display:inline;
+  }
+  
+  input.menu-mobile{
+    display:none;
+  }
+  
+  i{
+    display:block;
+    margin: 0 auto;
+    padding-bottom:2%;
+  }
+  
+  #menu-mobile:checked ~ label i:nth-child(2) {
+    display: block;
+  }
+  #menu-mobile:checked ~ label i:first-child {
+    display: none;
+  }
+  #menu-mobile:not(:checked) ~ label i:first-child {
+    display: block;
+  }
+  #menu-mobile:not(:checked) ~ label i:nth-child(2) {
+    display: none;
+  }
+  
+  #menu-mobile:checked ~ .menu-lista{
+  
+    display: block;
+    width:100%;
+    background-color:rgb(139, 184, 236);
+    color:black;
+    
+  
+  }
+  #menu-mobile:checked ~ .alista{
+  
+    display: block;
+    color:black;
+  }
+
+  .logo-saturno{
+    margin:0 auto;
+    display:block;
+  }
+
+  .newtarefa{
+    background-color: beige;
+    border-radius: 10px;
+    border: solid 2px lightcyan;
+    margin-top:10%;
+    margin-bottom:15%;
+}
+
+.title-tarefa{
+    text-align: center;
+    padding-top:2%;
+}
+
+.nameTarefa{
+    padding-left:5%;
+}
+
+.nameDate{
+    padding-top:5%;
+}
+
+.descricao{
+    background-color: white;
+    border-radius: 5px;
+    border:solid 2px black;
+}
+
+#descricao{
+    width:100%;
+    padding-bottom:20%;
+    
+}
+
+.btn-tarefa{
+    padding-top:5%;
+    padding-bottom:3%;
+}
+
+.text-btn{
+    display:block;
+    margin:0 auto;
+    padding-left:2%;
+    padding-right:2%;
+}
+
+.footer{
+    background-color: antiquewhite;
+    margin-top:5%;
+}
+
+.copyright{
+    margin:0 auto;
+    padding-top:4%;
+    padding-left:5%;
+}
+
+.logo-puc{
+    padding-top:3%;
+    padding-bottom:3%;
+    margin-left:40%;
+}
+}
