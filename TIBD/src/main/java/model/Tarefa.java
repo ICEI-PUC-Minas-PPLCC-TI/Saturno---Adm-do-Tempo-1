@@ -21,7 +21,11 @@ public class Tarefa {
 	}
 
 	public Tarefa(int id, String descricao, String dataLimite, String nome, int idUsuario) throws ParseException {
-		
+		setId(id);
+		setDescricao(descricao);
+		setDataLimite(dataLimite);
+		setNome(nome);
+		setIdUsuario(idUsuario);	
 	}		
 	
 	public int getId() {
@@ -66,7 +70,7 @@ public class Tarefa {
 	
 
 	public String toString() {
-		return "Id: " + getId() + " Nome: "+ getNome() + " Descrição: " + getDescricao() + " Data Limite: " + getDataLimite() + " Id Usuario: " + getIdUsuario();
+		return "Id: " + getId() + " Nome: "+ getNome() + " DescriÃ§Ã£o: " + getDescricao() + " Data Limite: " + getDataLimite() + " Id Usuario: " + getIdUsuario();
 	}
 	
 	public boolean equals(Object obj) {
